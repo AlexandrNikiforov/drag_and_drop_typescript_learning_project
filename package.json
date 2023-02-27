@@ -1,14 +1,23 @@
 {
-  "name": "learning_webpack",
+  "name": "drag_and_drop",
   "version": "1.0.0",
-  "description": "",
+  "description": "demo project",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
   },
   "author": "",
   "license": "ISC",
   "devDependencies": {
     "lite-server": "^2.6.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexandrNikiforov/Blank-TypeScript-Project.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AlexandrNikiforov/Blank-TypeScript-Project/issues"
+  },
+  "homepage": "https://github.com/AlexandrNikiforov/Blank-TypeScript-Project#readme"
 }
